@@ -22,6 +22,9 @@
 
 **Q.2.2.3** Mettre en place une authentification par clé valide et désactiver l'authentification par mot de passe
 
+![cap18](https://github.com/user-attachments/assets/53325095-e2c3-4187-831c-d480080dd38c)
+
+
 ![cap2](https://github.com/user-attachments/assets/140f83ae-dd0c-465e-9cfc-ceae9b7e3969)
 
 ![cap7](https://github.com/user-attachments/assets/321e18b8-faa5-41e3-9e2b-135f54c2074c)
